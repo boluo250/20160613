@@ -1,0 +1,36 @@
+2016-06-14 23:12:23,452:ERROR  :error
+2016-06-14 23:12:23,452:WARN  :warn
+2016-06-14 23:12:23,452:INFO  :info
+2016-06-14 23:12:23,453:DEBUG  :debug
+2016-06-14 23:15:31,114:ERROR  :error
+2016-06-14 23:15:31,117:WARN  :warn
+2016-06-14 23:15:31,118:INFO  :info
+2016-06-14 23:15:31,120:DEBUG  :debug
+2016-06-14 23:21:44,451:ERROR  :error
+2016-06-14 23:21:44,452:WARN  :warn
+2016-06-14 23:21:44,453:INFO  :info
+2016-06-14 23:21:44,453:DEBUG  :debug
+2016-06-14 23:28:18,130:ERROR  :error
+2016-06-14 23:28:18,131:WARN  :warn
+2016-06-14 23:28:18,132:INFO  :info
+2016-06-14 23:28:18,132:DEBUG  :debug
+2016-06-14 23:30:18,449:ERROR  :error message{testMylog.cc:main:45}
+2016-06-14 23:30:18,450:WARN  :warn message{testMylog.cc:main:46}
+2016-06-14 23:30:18,450:INFO  :info message{testMylog.cc:main:47}
+2016-06-14 23:30:18,450:DEBUG  :debug message{testMylog.cc:main:48}
+2016-06-14 23:31:04,769:ERROR  :error message{testMylog.cc:main:18}
+2016-06-14 23:31:04,770:WARN  :warn message{testMylog.cc:main:19}
+2016-06-14 23:31:04,770:INFO  :info message{testMylog.cc:main:20}
+2016-06-14 23:31:04,770:DEBUG  :debug message{testMylog.cc:main:21}
+2016-06-14 23:31:18,926:ERROR  :error message{testMylog.cc:main:15}
+2016-06-14 23:31:18,927:WARN  :warn message{testMylog.cc:main:16}
+2016-06-14 23:31:18,927:INFO  :info message{testMylog.cc:main:17}
+2016-06-14 23:31:18,928:DEBUG  :debug message{testMylog.cc:main:18}
+2016-06-14 23:32:05,288:ERROR  :error{testMylog.cc:main:15}
+2016-06-14 23:32:05,288:WARN  :warn{testMylog.cc:main:16}
+2016-06-14 23:32:05,288:INFO  :info{testMylog.cc:main:17}
+2016-06-14 23:32:05,289:DEBUG  :debug{testMylog.cc:main:18}
+2016-06-14 23:34:13,768:ERROR  :error
+2016-06-14 23:34:13,771:WARN  :warn{testMylog.cc:main:16}
+2016-06-14 23:34:13,771:INFO  :info{testMylog.cc:main:17}
+2016-06-14 23:34:13,772:DEBUG  :debug{testMylog.cc:main:18}
